@@ -1,0 +1,71 @@
+body {
+  background-color: lightpink;
+  /* background-image: url(music.jpg); */
+  color: teal
+}
+
+
+h1 {
+  color:black;
+  font-size: 50px
+}
+
+#p1 {
+  /* background-color: purple; */
+  color: blue;
+  font-size: 20px;
+  margin-left: 30px;
+}
+
+#p2 {
+  color: black;
+  font-size: 20px;
+}
+#p3 {
+  color: black;
+  font-size: 20px;
+}
+#demo{
+  color: darkblue;
+  font-size: 22px;
+}
+
+#picture {
+  width: auto;
+  height: 200px;
+  margin-left: 500px;
+
+
+}
+#picture2 {
+  width: auto;
+  height: 200px;
+  margin-left: 500px;
+}
+#picture3 {
+    width: auto;
+    height: 200px;
+    margin-left: 500px;
+}
+#picture4 {
+  width: auto;
+  height: 200px;
+  margin-left: -20px;
+}
+
+#picture5 {
+  width: auto;
+  height: 100px;
+  margin-left: -10px;
+}
+#demos {
+  color: black;
+  font-size: 20px;
+}
+.rotateimg90 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
